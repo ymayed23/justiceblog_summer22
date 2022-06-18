@@ -30,6 +30,12 @@ I wanted to begin by highlighting its strongest aspects…
 
 ![image](https://user-images.githubusercontent.com/106696000/174417774-105d5e32-5ac3-48de-9436-e7708fb6298b.png)
 
+![image](https://user-images.githubusercontent.com/106696000/174417822-8bc78124-d3b7-47cb-979e-0f1ebb971b6b.png)
+
+![image](https://user-images.githubusercontent.com/106696000/174417857-cf5f6d3f-5023-4276-9a65-e1f9222a4713.png)
+
+![image](https://user-images.githubusercontent.com/106696000/174418140-b34fb767-1a66-4117-8ca8-e54b0d65dd3a.png)
+
 ## **In-depth Evaluation**
 
 This mapping project is created in a way to inform a select group of individuals interested in mapping public transportation data. We can perceive this fact in two ways interchangeably: it does an excellent job providing detailed, step-by-step information to the wide range of experience levels of map-makers within transportation data analysis; in that same token, it fails to address the presence of other map-makers with interests outside of public transportation. In other words, if you are mapping public transportation data, keep reading; if not, move on. Of course, anyone can read through this story map, as I’ve stated before it has a user-friendly orientation where almost anyone can understand and follow through with. However, it is clear that this project caters specifically to a small population of map-makers, and an even smaller population of people as a whole. Given that, we have to wonder how much of a difference this mapping project creates in the greater scope of society. I have to admit that it made astronomical changes for me (a bit of an exaggeration, but only because this resource is an extremely helpful guide) and my plans for my own project. For the majority of society however, I don't think this mapping project would have any direct impact on them, if any at all. 
