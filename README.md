@@ -47,7 +47,9 @@ _As a frequent BART passenger commuting to and from university, I have come to r
 I am tackling this mapping project in a series of steps:
 
 1. Establishing BART stations and routes on a basemap of the Bay Area 
-            - Helps to visualize the movement of people and the distance they travel
+
+      - Helps to visualize the movement of people and the distance they travel
+      
 2. Take on a sample population through the duration of FA2021-SP2022 
              - Want to be consistent with my insider perspective of BART, only including the time period where I took BART 
              - Measure the distance traveled by people, noting where they got on and got off
