@@ -1,7 +1,7 @@
 # justiceblog_summer22
 
 ![ ](https://media.wired.com/photos/5e73c1d5df550d0009ec5955/16:9/w_2400,h_1350,c_limit/Transpo-subway-1212312984.jpg)  
-## **Intro** 
+## **Introduction** 
 
 Throughout this course, we have explored mapping social justice in the context of how it actually impacts people and places, but we’ve also discussed social justice from the context of map-making itself. How can people, regardless of their background knowledge in geography, create meaningful maps? How can we make public-data understandable for the independent map-makers? How can we become map-making literate? In my search to find a mapping project that pushes for public transportation justice, I came across this ArcGIS StoryMap that takes a step back and teaches individuals less familiar with map-making tools how to navigate themselves through the map-making process. This is a social justice intervention working behind the scenes, and as an individual who has much to learn in mapping, this effort truly is empowering.    
 
@@ -26,6 +26,9 @@ I wanted to begin by highlighting its strongest aspects…
           - Limited use of colors to indicate differences in information
           - Target audience very limited
 
+## **Take a Peak into the StoryMap**
+
+![image](https://user-images.githubusercontent.com/106696000/174417774-105d5e32-5ac3-48de-9436-e7708fb6298b.png)
 
 ## **In-depth Evaluation**
 
