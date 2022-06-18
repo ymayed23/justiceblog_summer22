@@ -37,14 +37,11 @@ I wanted to begin by highlighting its strongest aspects…
 
 ![image](https://user-images.githubusercontent.com/106696000/174417857-cf5f6d3f-5023-4276-9a65-e1f9222a4713.png)
 
-
-
 ## **In-depth Evaluation**
 
 This mapping project is created in a way to inform a select group of individuals interested in mapping public transportation data. We can perceive this fact in two ways interchangeably: it does an excellent job providing detailed, step-by-step information to the wide range of experience levels of map-makers within transportation data analysis; in that same token, it fails to address the presence of other map-makers with interests outside of public transportation. In other words, if you are mapping public transportation data, keep reading; if not, move on. Of course, anyone can read through this story map, as I’ve stated before it has a user-friendly orientation where almost anyone can understand and follow through with. However, it is clear that this project caters specifically to a small population of map-makers, and an even smaller population of people as a whole. Given that, we have to wonder how much of a difference this mapping project creates in the greater scope of society. I have to admit that it made astronomical changes for me (a bit of an exaggeration, but only because this resource is an extremely helpful guide) and my plans for my own project. For the majority of society however, I don't think this mapping project would have any direct impact on them, if any at all. 
 
 Moving on from this critical view, there is a lot that this effort can offer. I may even argue that this style of social justice intervention within mapping should be adopted more often. We need more resources that help individuals, for instance students beginning to explore GIS, how to even begin with mapping: where to get data from, how to make sense of the data, planning the direction of the mapping project, properly analyzing data, effectively visualizing it, etc. What we need is map literacy. In this sense, I am not talking about a social justice intervention in the form of a map with social awareness and change in mind. Instead, this is a form of social justice before the map is even made, where the map-maker is provided with the necessary knowledge and tools, again this idea of becoming map literate, to create effective maps and then perpetuate social justice interventions within their own projects. 
-
 
 ## **Taking Inspiration**
 
@@ -53,7 +50,6 @@ Moving on from this critical view, there is a lot that this effort can offer. I 
 I continue to put a great deal of emphasis on the organization. The story map creates three principal guiding questions it believes are the most important for any public transportation map-maker - 
 
     “ Who does the transit system serve? How well are people served by transit? How easily can people access important destinations by transit?”
-
 
 Before, I didn’t really have a clear direction of what social justice intervention I wanted to make, but this outline helped solidify my plans for my project. To reiterate, my project synopsis is as follows:
 
