@@ -86,10 +86,10 @@ The data I will be collecting is a mixture of shapefiles and CSV/XLS files. I ca
 
 - [ArcGIS StoryMap](https://urbanobservatory.maps.arcgis.com/apps/MapSeries/index.html?appid=1c32233ab04241a08f6bbc80f668d022)
 - List of Data I currently have (work in progress)
-      - [Transit Stops - Major (2021)](https://opendata.mtc.ca.gov/datasets/MTC::transit-stops-major-2021-1/explore?location=37.931132%2C-122.052997%2C11.77)
-      - [Transit Routes (2020)](https://opendata.mtc.ca.gov/datasets/MTC::transit-routes-2020/explore?location=37.931481%2C-122.068345%2C9.50)
-      - [Ridership Reports](https://www.bart.gov/about/reports/ridership)  
-      - [Plan Bay Area 2050 Transportation Projects (Point)](https://opendata.mtc.ca.gov/datasets/MTC::plan-bay-area-2050-transportation-projects-point/explore?location=37.755775%2C-122.186984%2C9.68&showTable=true); 2 other similar datasets, line & polygon
-      - [Priority Development Areas](https://data.bart.gov/dataset/priority-development-areas/resource/89f5d15c-77de-4de1-8b1b-7e11467d84f8)
-      - [Esri Demographics](https://doc.arcgis.com/en/esri-demographics/access/access.htm)
+     - [Transit Stops - Major (2021)](https://opendata.mtc.ca.gov/datasets/MTC::transit-stops-major-2021-1/explore?location=37.931132%2C-122.052997%2C11.77)
+     - [Transit Routes (2020)](https://opendata.mtc.ca.gov/datasets/MTC::transit-routes-2020/explore?location=37.931481%2C-122.068345%2C9.50)
+     - [Ridership Reports](https://www.bart.gov/about/reports/ridership)  
+     - [Plan Bay Area 2050 Transportation Projects (Point)](https://opendata.mtc.ca.gov/datasets/MTC::plan-bay-area-2050-transportation-projects-point/explore?location=37.755775%2C-122.186984%2C9.68&showTable=true); 2 other similar datasets, line & polygon
+     - [Priority Development Areas](https://data.bart.gov/dataset/priority-development-areas/resource/89f5d15c-77de-4de1-8b1b-7e11467d84f8)
+     - [Esri Demographics](https://doc.arcgis.com/en/esri-demographics/access/access.htm)
         
