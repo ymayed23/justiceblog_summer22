@@ -28,6 +28,8 @@ I wanted to begin by highlighting its strongest aspects…
 
 ## **Take a Peak into the StoryMap**
 
+(Public Transit in ArcGIS)[https://urbanobservatory.maps.arcgis.com/apps/MapSeries/index.html?appid=1c32233ab04241a08f6bbc80f668d022]
+
 ![image](https://user-images.githubusercontent.com/106696000/174417774-105d5e32-5ac3-48de-9436-e7708fb6298b.png)
 
 ![image](https://user-images.githubusercontent.com/106696000/174417822-8bc78124-d3b7-47cb-979e-0f1ebb971b6b.png)
