@@ -37,7 +37,7 @@ I wanted to begin by highlighting its strongest aspects…
 
 ![image](https://user-images.githubusercontent.com/106696000/174417857-cf5f6d3f-5023-4276-9a65-e1f9222a4713.png)
 
-![image](https://user-images.githubusercontent.com/106696000/174418140-b34fb767-1a66-4117-8ca8-e54b0d65dd3a.png)
+
 
 ## **In-depth Evaluation**
 
