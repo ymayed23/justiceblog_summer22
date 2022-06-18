@@ -37,21 +37,17 @@ I wanted to begin by highlighting its strongest aspects…
 
 ![image](https://user-images.githubusercontent.com/106696000/174417857-cf5f6d3f-5023-4276-9a65-e1f9222a4713.png)
 
-
-
 ## **In-depth Evaluation**
 
 This mapping project is created in a way to inform a select group of individuals interested in mapping public transportation data. We can perceive this fact in two ways interchangeably: it does an excellent job providing detailed, step-by-step information to the wide range of experience levels of map-makers within transportation data analysis; in that same token, it fails to address the presence of other map-makers with interests outside of public transportation. In other words, if you are mapping public transportation data, keep reading; if not, move on. Of course, anyone can read through this story map, as I’ve stated before it has a user-friendly orientation where almost anyone can understand and follow through with. However, it is clear that this project caters specifically to a small population of map-makers, and an even smaller population of people as a whole. Given that, we have to wonder how much of a difference this mapping project creates in the greater scope of society. I have to admit that it made astronomical changes for me (a bit of an exaggeration, but only because this resource is an extremely helpful guide) and my plans for my own project. For the majority of society however, I don't think this mapping project would have any direct impact on them, if any at all. 
 
 Moving on from this critical view, there is a lot that this effort can offer. I may even argue that this style of social justice intervention within mapping should be adopted more often. We need more resources that help individuals, for instance students beginning to explore GIS, how to even begin with mapping: where to get data from, how to make sense of the data, planning the direction of the mapping project, properly analyzing data, effectively visualizing it, etc. What we need is map literacy. In this sense, I am not talking about a social justice intervention in the form of a map with social awareness and change in mind. Instead, this is a form of social justice before the map is even made, where the map-maker is provided with the necessary knowledge and tools, again this idea of becoming map literate, to create effective maps and then perpetuate social justice interventions within their own projects. 
 
-
 ## **Taking Inspiration**
 
 I continue to put a great deal of emphasis on the organization. The story map creates three principal guiding questions it believes are the most important for any public transportation map-maker - 
 
     “ Who does the transit system serve? How well are people served by transit? How easily can people access important destinations by transit?”
-
 
 Before, I didn’t really have a clear direction of what social justice intervention I wanted to make, but this outline helped solidify my plans for my project. To reiterate, my project synopsis is as follows:
 
@@ -80,3 +76,14 @@ I am tackling this mapping project in a series of steps:
 
 The data I will be collecting is a mixture of shapefiles and CSV/XLS files. I came across 3 challenges with the data I want to work with, the first being that there is too much data from the CSV/XLS files, which I will have to figure out how to condense. The second problem is that I don’t want the story of BART to be misconstrued because of my selective choice in the ridership report. Again, I am only including data within the time that I took BART; although this gives me the ‘insider-edge’, I am definitely excluding past information and information that is constantly being updated. The last problem I have is how my map lacks in showing participatory data, which can best be described as personal stories and experiences on BART. I want my map to be a diverse representation of data - not just numbers but also the word of the people. In the meantime, I am struggling with finding sources that share this information. 
 
+## **Important Links**
+
+- [ArcGIS StoryMap](https://urbanobservatory.maps.arcgis.com/apps/MapSeries/index.html?appid=1c32233ab04241a08f6bbc80f668d022)
+- List of Data I currently have (work in progress)
+     - [Transit Stops - Major (2021)](https://opendata.mtc.ca.gov/datasets/MTC::transit-stops-major-2021-1/explore?location=37.931132%2C-122.052997%2C11.77)
+     - [Transit Routes (2020)](https://opendata.mtc.ca.gov/datasets/MTC::transit-routes-2020/explore?location=37.931481%2C-122.068345%2C9.50)
+     - [Ridership Reports](https://www.bart.gov/about/reports/ridership)  
+     - [Plan Bay Area 2050 Transportation Projects (Point)](https://opendata.mtc.ca.gov/datasets/MTC::plan-bay-area-2050-transportation-projects-point/explore?location=37.755775%2C-122.186984%2C9.68&showTable=true); 2 other similar datasets, line & polygon
+     - [Priority Development Areas](https://data.bart.gov/dataset/priority-development-areas/resource/89f5d15c-77de-4de1-8b1b-7e11467d84f8)
+     - [Esri Demographics](https://doc.arcgis.com/en/esri-demographics/access/access.htm)
+        
