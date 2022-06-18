@@ -52,18 +52,18 @@ I am tackling this mapping project in a series of steps:
       
 2. Take on a sample population through the duration of FA2021-SP2022 
 
-             - Want to be consistent with my insider perspective of BART, only including the time period where I took BART 
-             - Measure the distance traveled by people, noting where they got on and got off
-             - Priority on rush hours (morning and evening)
+      - Want to be consistent with my insider perspective of BART, only including the time period where I took BART
+      - Measure the distance traveled by people, noting where they got on and got off
+      - Priority on rush hours (morning and evening)
              
 3. Collect demographic data and embed within station data point
 
-              - Creates relationship between station and socioeconomic status/racial background 
+      - Creates relationship between station and socioeconomic status/racial background 
               
 4. Optional (may be outside of project scope)
 
-              - Find participatory data (oral stories, reports, accidents, complaints, etc)
-              - Compare map with PLAN BAY AREA 2040 map 
+      - Find participatory data (oral stories, reports, accidents, complaints, etc)
+      - Compare map with PLAN BAY AREA 2040 map 
 
 The data I will be collecting is a mixture of shapefiles and CSV/XLS files. I came across 3 challenges with the data I want to work with, the first being that there is too much data from the CSV/XLS files, which I will have to figure out how to condense. The second problem is that I don’t want the story of BART to be misconstrued because of my selective choice in the ridership report. Again, I am only including data within the time that I took BART; although this gives me the ‘insider-edge’, I am definitely excluding past information and information that is constantly being updated. The last problem I have is how my map lacks in showing participatory data, which can best be described as personal stories and experiences on BART. I want my map to be a diverse representation of data - not just numbers but also the word of the people. In the meantime, I am struggling with finding sources that share this information. 
 
